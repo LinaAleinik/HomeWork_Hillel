@@ -1,0 +1,261 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+   
+}
+#pig {
+    width: 984px;
+}
+
+.purple{
+    background-color: #9574b4;
+}
+
+.black {
+    background-color: #000;
+}
+
+.yellow {
+    background-color: #f5ba20;
+}
+
+.ears {
+    margin: 0 74px 0 87px;
+}
+
+.ear {
+    width: 264px;
+    height: 180px;
+    float: left;
+}
+
+.ear2 {
+    float:right;
+    width: 264px;
+    height: 180px;
+}
+
+.auricles {
+    width: 142px;
+    height: 150px;
+    margin: 27px 55px 15px 55px;
+}
+
+.bonce {
+    height: 639px;
+    clear: both;
+}
+
+.eyes {
+    height: 184px;
+    margin-top: 95px;
+    margin-bottom: 20px;
+}
+
+.eye1 {
+    width: 265px;
+    margin: 95px 78px 0 78px;
+    float: left;
+}
+.eye2 {
+    width: 265px;
+    margin: 95px 84px 0 84px;
+    float: right;
+}
+.pupil1, .pupil2 {
+    clear: both;
+    height: 127px;
+    width: 95px;
+    margin-top: 60px;
+    margin-bottom: 0px;
+}
+.pupil1 {
+    margin-left: 170px;
+}
+
+.pupil2 {
+    margin-right: 170px;
+}
+
+.nose {
+    clear:both;
+    padding-top: 30px;
+}
+
+.bigPig {
+    margin: 20px 320px 0 345px;
+    background-color: #fdc580;
+    height: 115px;
+    width: 323px;
+}
+
+.nostril1, .nostril2 {
+    background-color: #e73896;
+    height: 85px;
+    width: 64px;
+    margin-top: 31px;
+}
+.nostril1{
+    margin-left: 61px;
+    float: left;
+}
+.nostril2 {
+    float: right;
+    margin-right: 54px;
+}
+.mouth {
+    margin: 42px 105px 0 129px;
+    background-color: #df1b26;
+    height: 92px;
+    width: 755px;
+}
+
+.teethUp {
+    clear: both;
+    margin-left: 110px;
+}
+
+.up1, .up2, .up3, .up4, .up5, .up6 {
+    width: 63px;
+    height: 46px;
+    float: left;
+}
+.up1 {
+    margin-right: 44px;
+}
+.up2 {
+    margin-right: 52px;
+}
+
+.up3 {
+    margin-right: 45px;
+}
+
+.up4 {
+    margin-right: 56px;
+}
+
+.up5 {
+    margin-right: 45px;
+}
+
+.teethDown {
+    clear: both;
+    margin-right: 84px;
+}
+
+.down1, .down2, .down3, .down4, .down5, .down6 {
+    height: 46px;
+    width: 65px;
+    background-color: #fff;
+    float: right;
+}
+
+.down1, .down3, .down5 {
+    margin-left: 44px;
+}
+.down2 {
+    margin-left: 57px;
+}
+
+.down4 {
+    margin-left: 52px;
+}
+
+.neck {
+    clear:both;
+    height: 79px;
+    width: 262px;
+    margin: 0 348px 0 374px;
+    padding: 1px;
+}
+
+.necklace {
+    height: 30px;
+    width: 259px;
+    margin: 25px 0 23px 3px;
+}
+
+.body {
+    /* margin: 0 auto; */
+    width: 952px;
+}
+
+
+.shoulders, .hands, .finger1 {
+    border-top-left-radius: 16px;
+}
+
+.shoulders, .hands, .finger2 {
+    border-top-right-radius: 16px;
+}
+
+.shoulders {
+    height: 75px;
+    width: 721px;
+    margin: 0 129px 0 132px;
+}
+
+.hands, .finger1, .torso, .leg1, .leg2, .finger3, .finger4 {
+    border-bottom-left-radius: 16px;
+}
+
+.hands, .finger2, .torso, .leg1, .leg2, .finger3, .finger4 {
+    border-bottom-right-radius: 16px;
+}
+
+.hands {
+    height: 174px;
+    width: 953px;
+    margin: 0 17px 0 14px;
+}
+
+.finger1 {
+    height: 174px;
+    width: 38px;
+    float: left;
+}
+
+.finger2 {
+    height: 174px;
+    width: 38px;
+    float: right;
+} 
+
+.torso {
+    clear:both;
+    height: 510px;
+    width: 723px;
+    margin: 0 129px 0 132px;
+    padding: 1px;
+}
+
+.stomach {
+    height: 429px;
+    width: 431px;
+    border-radius: 50%;
+    margin: 24px 115px 53px 177px;
+    background-color: #e73896
+}
+
+.feet {
+    margin: 0 195px 0 203px;
+}
+
+.leg1, .leg2 {
+    height: 154px;
+}
+.leg1 {
+    width: 162px;
+    float: left;
+}
+
+.leg2 {
+    width: 160px;
+    float: right;
+}
+
+.finger3, .finger4 {
+    margin-top: 115px;
+    height: 40px;
+}
